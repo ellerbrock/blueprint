@@ -100,7 +100,7 @@
     "tslint-react": "1.1.0",
     "typescript": "2.0.9",
     "vinyl-source-stream": "1.1.0",
-    "webpack": "1.13.3"
+    "webpack": "1.14.0"
   },
   "engines": {
     "node": ">= 5.1"
