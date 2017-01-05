@@ -23,7 +23,7 @@
     "@types/enzyme": "2.5.38",
     "@types/mocha": "2.2.32",
     "@types/pure-render-decorator": "0.2.27",
-    "@types/react": "0.14.47",
+    "@types/react": "0.14.48",
     "@types/react-addons-css-transition-group": "0.14.17",
     "@types/react-addons-test-utils": "0.14.15",
     "@types/react-addons-transition-group": "0.14.17",
