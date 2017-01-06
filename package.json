@@ -84,7 +84,7 @@
     "postcss-copy-assets": "0.3.0",
     "postcss-import": "9.0.0",
     "postcss-url": "5.1.2",
-    "react": "15.3.2",
+    "react": "15.4.0",
     "react-addons-test-utils": "15.3.2",
     "react-dom": "15.3.2",
     "run-sequence": "1.2.2",
