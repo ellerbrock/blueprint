@@ -98,7 +98,7 @@
     "ts-quick-docs": "0.5.3",
     "tslint": "4.4.2",
     "tslint-react": "1.1.0",
-    "typescript": "2.0.10",
+    "typescript": "2.1.6",
     "vinyl-source-stream": "1.1.0",
     "webpack": "1.13.3"
   },
