@@ -82,7 +82,7 @@
     "npm-run-all": "4.0.2",
     "phantomjs-prebuilt": "2.1.13",
     "postcss-copy-assets": "0.3.0",
-    "postcss-import": "9.0.0",
+    "postcss-import": "11.0.0",
     "postcss-url": "5.1.2",
     "react": "15.4.0",
     "react-addons-test-utils": "15.3.2",
