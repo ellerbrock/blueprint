@@ -16,7 +16,7 @@
     "serve": "http-server docs"
   },
   "dependencies": {
-    "@types/assertion-error": "1.0.30",
+    "@types/assertion-error": "1.1.0",
     "@types/chai": "3.4.34",
     "@types/classnames": "0.0.31",
     "@types/dom4": "1.5.20",
