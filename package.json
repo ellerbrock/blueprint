@@ -88,7 +88,7 @@
     "react-addons-test-utils": "15.3.2",
     "react-dom": "15.4.0",
     "run-sequence": "1.2.2",
-    "sinon": "2.1.0",
+    "sinon": "4.4.4",
     "sorted-object": "2.0.1",
     "string-replace-loader": "1.0.5",
     "stylelint": "7.10.0",
