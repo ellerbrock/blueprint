@@ -93,7 +93,7 @@
     "string-replace-loader": "1.0.5",
     "stylelint": "7.10.0",
     "stylelint-config-palantir": "1.1.0",
-    "stylelint-scss": "1.4.0",
+    "stylelint-scss": "3.7.0",
     "ts-loader": "1.2.0",
     "ts-quick-docs": "0.5.3",
     "tslint": "4.5.1",
