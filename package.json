@@ -32,7 +32,7 @@
     "autoprefixer": "6.7.4",
     "better-handlebars": "github:wmeldon/better-handlebars",
     "chai": "3.5.0",
-    "del": "2.2.2",
+    "del": "5.1.0",
     "enzyme": "2.8.0",
     "eslint": "3.16.0",
     "eslint-config-palantir": "1.0.0",
